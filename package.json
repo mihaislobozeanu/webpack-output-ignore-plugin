@@ -1,0 +1,19 @@
+{
+  "name": "webpack-output-ignore-plugin",
+  "version": "0.0.1",
+  "description": "Prevents from webpack from saving files.",
+  "author": "Mihai Slobozeanu <mihaislobozeanu@gmail.com>",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mihaislobozeanu/webpack-output-ignore-plugin.git"
+  },
+  "dependencies": {
+    "webpack": "^1.13.0"
+  },
+  "license": "MIT",
+  "publishConfig":{
+    "registry":"http://registry.npmjs.org/"
+  }
+}
